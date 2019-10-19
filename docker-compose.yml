@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  node-example1:
+    build: . 
+    ports:
+    - "8080:8080"
+
+
+
+# To run the build and to set up our services as a while we need to do the following:
+# docker-compose build
+# docker-compose up
+
+# To destroy the running services we use
+# docker-compose down

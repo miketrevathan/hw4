@@ -1,0 +1,10 @@
+{
+    "users": [
+
+        {"name": "michael", "email": "michael@mit.edu", "password": "michael123"}
+        ,
+        {"name": "sam", "email": "sam@mit.edu", "password": "sam123"}
+        ,
+        {"name": "john", "email": "john@mit.edu", "password": "john123"}
+    ]
+       }
